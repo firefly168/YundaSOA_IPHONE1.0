@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>C001</key>
+	<string>/login.json</string>
+	<key>C002</key>
+	<string>/calendar.json</string>
+	<key>C003</key>
+	<string>/project.json</string>
+	<key>C004</key>
+	<string>/headquar/queryAllCount.json</string>
+	<key>C004-1</key>
+	<string>/headquar/queryCategory.json</string>
+	<key>C004-2</key>
+	<string>/headquar/queryCategoryOrgInfo.json</string>
+	<key>C005</key>
+	<string>/department/queryCategory.json</string>
+	<key>C005-1</key>
+	<string>/department/queryCategoryOrgByDept.json</string>
+	<key>C006</key>
+	<string>/categoryCount.json</string>
+	<key>C007</key>
+	<string>/categoryQuery.json</string>
+	<key>C008</key>
+	<string>/queryResult.json</string>
+	<key>C009</key>
+	<string>/forumInfo.json</string>
+	<key>C010</key>
+	<string>/forumTheme.json</string>
+	<key>C011</key>
+	<string>/forumAnswer.json</string>
+	<key>C012</key>
+	<string>/task.json</string>
+	<key>C013</key>
+	<string>/getDeptTable.json</string>
+	<key>C014</key>
+	<string>/queryWholeTable.json</string>
+	<key>C015</key>
+	<string>/queryOrgInfo.json</string>
+	<key>C016</key>
+	<string>/queryEmpInfo.json</string>
+	<key>C017</key>
+	<string>/queryNotice.json</string>
+</dict>
+</plist>

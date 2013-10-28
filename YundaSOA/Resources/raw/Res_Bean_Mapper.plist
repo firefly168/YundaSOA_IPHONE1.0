@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>C001</key>
+	<string>UserBeanRes</string>
+	<key>C002</key>
+	<string>CalendarBeanRes</string>
+	<key>C003</key>
+	<string>ProjectBeanRes</string>
+	<key>C004</key>
+	<string>HeadquarProgressBeanRes</string>
+	<key>C004-1</key>
+	<string>HeadquarProgressBeanRes</string>
+	<key>C004-2</key>
+	<string>HeadquarProgressBeanRes</string>
+	<key>C005</key>
+	<string>DepartmentOfBeanRes</string>
+	<key>C005-1</key>
+	<string>DepartmentOfBeanRes</string>
+	<key>C006</key>
+	<string>CategoryCountInfoRes</string>
+	<key>C007</key>
+	<string>CategoryQueryInfoRes</string>
+	<key>C008</key>
+	<string>QueryResultInfoRes</string>
+	<key>C009</key>
+	<string>ForumInfoRes</string>
+	<key>C010</key>
+	<string>ForumThemeRes</string>
+	<key>C011</key>
+	<string>ForumAnswerRes</string>
+	<key>C012</key>
+	<string>ProjectTaskBeanRes</string>
+	<key>C013</key>
+	<string>DeptTableRes</string>
+	<key>C014</key>
+	<string>ProjectTaskBeanForWholeTableRes</string>
+	<key>C015</key>
+	<string>QueryOrgRes</string>
+	<key>C016</key>
+	<string>QueryEmpRes</string>
+	<key>C017</key>
+	<string>NotificationRes</string>
+</dict>
+</plist>
